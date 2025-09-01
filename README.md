@@ -7,7 +7,6 @@ This project analyzes **customer retention performance** for **Vilvah**, a natur
 - **Power BI** – Dashboard creation and visualization  
 - **Excel / CSV** – Data cleaning and preparation  
 - **Power Query** – Data transformation  
-- **Python (optional)** – Advanced preprocessing (if used)  
 
 ## 📊 Key Features of the Dashboard  
 - **Executive Summary** highlighting retention performance.  
